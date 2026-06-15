@@ -1,6 +1,5 @@
 title: Test Sight
 description: I'm testing and confused
-![An image of the word Test] (https://img.texasmonthly.com/2023/04/staar-school-takeover.jpg?auto=compress&crop=faces&fit=fit&fm=webp&h=0&ixlib=php-3.3.1&q=45&w=1820)
-remote_theme: pages-themes/cayman@v0.2.0
+![An Image of AJs Latin Quiz](https://img.texasmonthly.com/2023/04/staar-school-takeover.jpg?auto=compress&crop=faces&fit=fit&fm=webp&h=0&ixlib=php-3.3.1&q=45&w=1820)
 plugins:
 - jekyll-remote-theme
